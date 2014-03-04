@@ -1,5 +1,1 @@
-*
-!.gitignore
-!_layouts
-!*.html
-!*.md
+.DS_Store
